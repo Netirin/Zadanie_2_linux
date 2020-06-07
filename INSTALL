@@ -1,0 +1,4 @@
+By zainstalowac program nalezy uzyc w folderze z plikami komend: 
+./configure 
+make
+Powstaje wtedy dzialajacy program o nazwie Pola_i_Objetosci
