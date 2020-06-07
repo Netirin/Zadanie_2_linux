@@ -1,0 +1,12 @@
+Zadanie 2 z labolatorium Podstawy Systemow Operacyjnych
+Oliwia Ziolo
+
+Prosta aplikacja liczaca pola i objetosci prostokata i prostopadloscianu.
+
+Sposob uzycia:
+Zainstalowac wedlug pliku INSTALL.
+Po zainstalowaniu uruchomic program komenda ./Pola_i_Objetosci w folderze, w ktorym program sie znajduje.
+Uwaga:
+PO instalacji mozna usunac wszystkie pliki poza samym programem, jednak uniemozliwi to ponowna instalacje bez ponownego sciagniecia plikow!
+
+Wersja 0.1
